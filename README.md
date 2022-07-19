@@ -17,8 +17,6 @@ I've started with:
 
 Whish me luck
 
-![clover](luck.png)
-
 |HTML|CSS|JavaScript|
 |:-------:|:------|:-------|
 |basic|basic|none yet|
